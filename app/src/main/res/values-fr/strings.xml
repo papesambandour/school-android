@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">School</string>
+    <string name="connection">Connexion</string>
+    <string name="login">Identifiant</string>
+    <string name="password">Mot De Passe</string>
+    <string name="inscription">Inscription</string>
+    <string name="formation">Formation</string>
+    <string name="mark">Note</string>
+    <string name="university">Université</string>
+    <string name="help">Aide</string>
+    <string name="valid">Valider</string>
+    <string name="cancel">Annuler</string>
+    <string name="degrees">Diplomes</string>
+    <string name="first_name">Prénom</string>
+    <string name="last_name">Nom</string>
+    <string name="o_level">Baccalaureat</string>
+    <string name="bachelor">Licence</string>
+    <string name="master">Master</string>
+    <string name="error_fields">Erreur De Saisie</string>
+    <string name="error_unreachable_server">Serveur injoignable</string>
+    <string name="error_parameters">Erreur de paramettres</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="wait">Vueillez Patienter</string>
+</resources>

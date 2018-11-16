@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">School</string>
+    <string name="connection">Connection</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="inscription">Inscription</string>
+    <string name="formation">Formation</string>
+    <string name="mark">Mark</string>
+    <string name="university">University</string>
+    <string name="help">Help</string>
+    <string name="valid">Valid</string>
+    <string name="cancel">Cancel</string>
+    <string name="degrees">Gegrees</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="o_level">O Level</string>
+    <string name="bachelor">Bachelor</string>
+    <string name="master">Master</string>
+    <string name="error_fields">Error Fields</string>
+    <string name="error_unreachable_server">Unreachable Server</string>
+    <string name="error_parameters">Error Parameters </string>
+    <string name="welcome">Welcome</string>
+    <string name="wait">Please Wait</string>
 </resources>
