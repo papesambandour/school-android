@@ -21,4 +21,11 @@
     <string name="error_parameters">Erreur de paramettres</string>
     <string name="welcome">Bienvenue</string>
     <string name="wait">Vueillez Patienter</string>
+    <string name="title_activity_home">Accueil</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Menu entete</string>
+    <string name="action_settings">Paramettre</string>
 </resources>

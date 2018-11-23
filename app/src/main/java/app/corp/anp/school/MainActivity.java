@@ -1,5 +1,6 @@
 package app.corp.anp.school;
 
+import android.content.Intent;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -28,7 +29,12 @@ public class MainActivity extends AppCompatActivity {
                 password = txtpassword.getText().toString();
                 if (login.isEmpty() || password.isEmpty())
                 {
-                    Toast.makeText(MainActivity.this, getString(R.string.error_fields), Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, getString(R.string.error_fields), Toast.LENGTH_LONG).show();
+                  //  AlertDialog alertDialog = new AlertDialog();
+                }
+                else {
+                    Intent intent = new Intent(MainActivity.this,HomeActivity.class);
+                    startActivity(intent);
                 }
             }
         });
