@@ -11,6 +11,8 @@
     <string name="valid">Valid</string>
     <string name="cancel">Cancel</string>
     <string name="degrees">Gegrees</string>
+    <string name="degreesEmpty">Gegrees no Checked </string>
+    <string name="sucesseIncription">Successful Inscription </string>
     <string name="first_name">First Name</string>
     <string name="last_name">Last Name</string>
     <string name="o_level">O Level</string>

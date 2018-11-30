@@ -16,8 +16,8 @@
         <item>Anglais</item>
     </string-array>
     <string-array name="tab_details">
-        <item>Anglais, Android, Java EE, Oracle, Asp, </item>
-        <item>Anglais, Android, Java EE, Oracle, Asp, </item>
+        <item>Anglais, Android, Java EE, Oracle, Asp,Anglais, Android, Java EE, Oracle, Asp, </item>
+        <item>PHP, NODE JS, ANGULAR 6, SPRING BOOT,PHP, NODE JS, ANGULAR 6, SPRING BOOT,  </item>
         <item>Reseaux Telecom</item>
         <item>Genie Logiciel</item>
         <item>Logistique</item>

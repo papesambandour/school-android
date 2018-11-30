@@ -11,6 +11,8 @@
     <string name="valid">Valider</string>
     <string name="cancel">Annuler</string>
     <string name="degrees">Diplomes</string>
+    <string name="degreesEmpty">Pas de diplomes selectionnes </string>
+    <string name="sucesseIncription">Inscription reussit avec succes</string>
     <string name="first_name">Prénom</string>
     <string name="last_name">Nom</string>
     <string name="o_level">Baccalaureat</string>
